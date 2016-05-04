@@ -46,26 +46,26 @@ Code group has two buttons: generate code and regenerate code.
 Run group has a single button: Deploy on YouREST. It opens the Deploy wizard which gives instructions on how to start the generated web service. 
 
 #### Project creation wizard
-![](./images/newproject0.png)
+![](./images/newProject0.png)
 
 To create a new S-Case project, select S-Case Project from the New project wizard.
 
-![](./images/newproject1.png)
+![](./images/newProject1.png)
 
 
 On this page you need to provide a project name, which has to be unique in the workspace.
 You can also use the default location for the project or select a different one in the filesystem.
 
-![](./images/newproject2.png)
+![](./images/newProject2.png)
 
 Now you can select a project domain for the project from the provided list.
 
-![](./images/newproject3.png)
+![](./images/newProject3.png)
 
 This page allows you to set the folders which will be used to organise the project. 
 They will contain the models, generated code, requirements and storyboards. You can select the exsisting folders or generate new ones.
 
-![](./images/newproject3b.png)
+![](./images/newProject3b.png)
 
 #### Project properties
 To see the project properties, right click on a project > Properties, and then select S-Case category on the left.
